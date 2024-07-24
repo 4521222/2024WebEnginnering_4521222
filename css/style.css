@@ -24,3 +24,20 @@ p{
     
     
 }
+
+.mga,
+.Nissy,
+.sumika{
+    display:flex;
+    
+}
+
+
+
+iframe{
+    height:350px;
+  
+    aspect-ratio: 9/16;
+    width:auto;
+    margin:0 auto;
+}
