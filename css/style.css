@@ -1,0 +1,26 @@
+html{
+    background-color: bisque;
+}
+
+img{
+    max-width:100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+.artist{
+    margin:0 100px;
+}
+
+.artist-img{
+    width:50%;
+    height:auto;
+    margin:0 auto;
+    
+    
+}
